@@ -1,7 +1,7 @@
 # Skooma
 
 [![Hex.pm](https://img.shields.io/hexpm/v/skooma.svg)](https://hex.pm/packages/skooma)
-[![Build Status](https://travis-ci.org/bcoop713/skooma.svg?branch=master)](https://travis-ci.org/bcoop713/skooma)
+[![Build Status](https://github.com/StephSanchez/skooma/actions/workflows/elixir.yml/badge.svg)](https://github.com/StephSanchez/skooma/actions/workflows/elixir.yml/badge.svg)
 
 Forked from [BCOOP713](https://github.com/bcoop713/skooma)
 
