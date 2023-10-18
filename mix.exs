@@ -4,7 +4,7 @@ defmodule Skooma.Mixfile do
   def project do
     [
       app: :skooma,
-      version: "0.2.0",
+      version: "0.2.1",
       elixir: "~> 1.5",
       start_permanent: Mix.env == :prod,
       deps: deps(),
@@ -12,8 +12,8 @@ defmodule Skooma.Mixfile do
       package: [
         name: "skooma",
         licenses: ["MIT"],
-        maintainers: ["bcoop713@gmail.com"],
-        links: %{"Github" => "https://github.com/bcoop713/skooma"}
+        maintainers: ["steph.sanch@yahoo.fr"],
+        links: %{"Github" => "https://github.com/StephSanchez/skooma"}
       ]
     ]
   end

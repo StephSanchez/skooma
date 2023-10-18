@@ -85,7 +85,7 @@ defmodule Skooma.Validators do
 
   def lte(value) do
     fn data ->
-      bool = data < value
+      bool = data <= value
 
       if bool do
         :ok
